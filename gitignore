@@ -1,4 +1,2 @@
 .gitignore
-
-# has api keys 
 secrets.txt
